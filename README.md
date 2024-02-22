@@ -1,5 +1,5 @@
 # quick-shopping-list
-Project Title: Simple Task Management Website
+Project Title: Simple Personal Task Organizer
 
 Description:
 This website empowers users to effortlessly manage their daily tasks, even offline. Leveraging HTML, CSS, and JavaScript, it offers seamless task creation, editing, modification, and deletion, ensuring data persistence through local storage.
@@ -28,7 +28,7 @@ Project Scope:
 - User Experience: Designed a user-friendly interface that minimizes cognitive load.
 
 
- Live Demo: https://fastshoppingpocket.netlify.app/
+ Live Demo: 
 
  
  Technology Stack:
@@ -39,6 +39,6 @@ JavaScript: DOM manipulation, interactivity, and data storage.
 
 Setup Instructions:
 - Ensure you have a modern web browser installed on your PC, Tab or Mobile Phone.
-- No local setup is required.Simply access the live demo link provided above and get started.
+- No local setup is required. Simply access the live demo link provided above and get started.
 
   
