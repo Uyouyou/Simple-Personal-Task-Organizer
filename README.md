@@ -28,7 +28,7 @@ Project Scope:
 - User Experience: Designed a user-friendly interface that minimizes cognitive load.
 
 
- Live Demo: 
+ Live Demo: https://personaltaskorganizer.netlify.app/
 
  
  Technology Stack:
